@@ -7,6 +7,6 @@ The core API
 # Functions
 Functions provided by reqyt
 # Proxy
-The proxy/accounting serve
+The proxy/accounting server
 # Worker
 An attempt at a Docker container manager. Just use Kubernetes or whatever, don't use it :)
