@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+package protos;
+
+message Input {
+  bytes in = 1;
+}
+message Output {
+  bytes out = 1;
+}

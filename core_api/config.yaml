@@ -1,0 +1,7 @@
+logQueries: false
+logLevel: "debug"
+logCaller: false
+autoMigrate: true
+apiBindAddress: "127.0.0.1:8001"
+logRequests: true
+databasePath: "/reqyt/db.db"

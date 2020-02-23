@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+package main;
+
+message Input {
+  string inputLanguage = 1;
+  string outputLanguage = 2;
+  string text = 3;
+}
+message Output {
+  string text = 1;
+}
